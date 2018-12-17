@@ -1,6 +1,6 @@
 {
   "name": "test-tags",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Testing tags and changelogs of GitHub",
   "main": "app.js",
   "scripts": {
